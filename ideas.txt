@@ -1,3 +1,5 @@
 ideas for the project:
   - retro themed open world game with 2D graphics
   - web based project management tool using goLang
+  - QR code business card to use at the career fair
+  
